@@ -5,7 +5,8 @@
 #### *Make sure to update your progress at the end of each day.*
 
 Daily Reading notes for 
-## February ##
+## Start Date February 3, 2020 ##   
+February 3, 2020
 
 Upload Your First Github repo Lab 01a
 
