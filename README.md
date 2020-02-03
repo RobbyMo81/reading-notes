@@ -7,6 +7,22 @@
 Daily Reading notes for 
 ## February ##
 
-- [ ] Upload Your First Github repo
-- [ ] Upload Your First Github repo
-- [ ] Upload Your First Github repo
+Upload Your First Github repo Lab 01a
+
+-[ ] Completed
+
+Upload Your First Github gist
+
+-[ ] Completed Lab 01
+
+items will be updated daily
+
+* Week 1 Completed
+
+-[ ] Place holder for updates
+
+-[ ] Place holder for updates
+
+-[ ] Place holder for updates
+  
+* Week 2 Completed
