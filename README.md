@@ -19,6 +19,7 @@ Upload Your First Github gist
 items will be updated daily
 
 * Week 1 Completed
+[Class 2 Reading Notes]( https://robbymo81.github.io/reading-notes/Class-02)
 
 -[ ] Place holder for updates
 
