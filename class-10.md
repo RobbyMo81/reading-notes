@@ -1,7 +1,7 @@
 From the Duckett JS bookJavaScript book, Ch. 10, “Error Handling & Debugging”
 
 
-## Order of ExecutionFinding the source of the issue can be easy when you understand the order of how task are completed or generated and when it can be used.there are global contexts and function specific contexts. There are also function generated context
+## Order of ExecutionFinding the source of the issue can be easy when you understand the order of how task are completed or generated and when it can be used. There are global contexts and function specific contexts. There are also function generated context
 
 ## Execution contexts
 
