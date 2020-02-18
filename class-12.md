@@ -1,5 +1,5 @@
 # Canvas .  `<canvas><canvas/>`
-`<canvas><canvas/>` is an html tag used for displaying a drawing. Used in conjuction with JavaScript `<canvas><canvas/>` has the ability to animate drawings.
+`<canvas><canvas/>` is an html tag used for displaying a drawing. Used in conjunction with JavaScript `<canvas><canvas/>` has the ability to animate drawings.
 
 ### To setup `<canvas><canvas/>` in your html sheet
 
