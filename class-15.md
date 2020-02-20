@@ -1,8 +1,8 @@
 # What makes a good team (there is no best team)
 
- 
+## The Research
 
-## There are hundreds and thousands of hours devoted to studying and understanding what makes a productive team. Researchers look at many different teams, for the gender mix of teams. To how teams socialize at work and outside of work. Researchers have also looked at the team leaders of teams and countless other factors about work teams. After years of studying failing and successful teams,  data shows that a good team has these qualities. From the research of psychologists and sociologist, the qualities of good productive teams are `Group Norms` and `equality`   
+There are hundreds and thousands of hours devoted to studying and understanding what makes a productive team. Researchers look at many different teams, for the gender mix of teams. To how teams socialize at work and outside of work. Researchers have also looked at the team leaders of teams and countless other factors about work teams. After years of studying failing and successful teams,  data shows that a good team has these qualities. From the research of psychologists and sociologist, the qualities of good productive teams are `Group Norms` and `equality`   
 
 Good Teams
 
